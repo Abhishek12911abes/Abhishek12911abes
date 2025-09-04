@@ -1,32 +1,56 @@
-# Hi, I'm Abhay Mishra! 👋
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<h3 align="center">A passionate Fullstack Developer from India 🚀</h3>
 
-I am a passionate Fullstack web developer from India. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-![Abhishek12911abes's Stats](https://github-readme-stats.vercel.app/api?username=Abhay12911&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **ABES Engineering College, Ghaziabad**  
+- 💻 Specialized in **MERN Stack** & **TypeScript**  
+- 🌱 Currently learning **Advanced MERN** and **Data Structures & Algorithms (LeetCode)**  
+- 📫 Reach me at **shikharsingh1223@gamil.com**
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently pursuing my Btech in Computer Science and Engineering College Ghaziabad.
--  I am a fullstack developer specialised in MERN stack,Typescript.
+## 🌐 Connect with me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-singh-1405ba344/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shikharsingh1223@gamil.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/abhi_drizzle12/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## 🛠️ Tech Stack  
 
+- **Frontend:** React.js | Next.js | HTML | CSS | JavaScript | TypeScript  
+- **Backend:** Node.js | Express.js  
+- **Database:** MongoDB | MySQL  
+- **Tools & Platforms:** Git | GitHub | Postman | VS Code | Linux  
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,cpp,c,css,express,git,github,js,mongodb,nextjs,nodejs,postgres,postman,react,tailwind,ts,vite,docker)](https://skillicons.dev)
+---
 
-## 🌱 Currently Exploring
+## 📊 GitHub Stats & Activity  
 
-- 🚀 Learning Full Stack Web Development
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - Learning Nextjs.
-    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek12911abes&show_icons=true&theme=tokyonight" alt="github stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek12911abes&layout=compact&theme=tokyonight" alt="top languages" height="170"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek12911abes&theme=tokyonight" alt="streak stats" height="170"/>
+</p>
 
+---
 
-## 📬 Get in Touch
+## 👁 Profile Views  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek12911abes&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
-- Connect with me on [Twitter](https://x.com/abhaystp30)
-- 
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## 🐍 Contribution Graph  
+![snake gif](https://github.com/Abhishek12911abes/Abhishek12911abes/blob/output/github-contribution-grid-snake.svg)
