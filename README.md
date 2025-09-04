@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **ABES Engineering College, Ghaziabad**  
-- 💻 Specialized in **MERN Stack** & **TypeScript**  
+- 💻 Specialized in **MERN Stack** & **JavaScript**  
 - 🌱 Currently learning **Advanced MERN** and **Data Structures & Algorithms (LeetCode)**  
-- 📫 Reach me at **shikharsingh1223@gamil.com**
+- 📫 Reach me at **shikharsingh1223@gmail.com**
 
 ---
 
@@ -47,11 +47,12 @@
 
 ---
 
-## 🚀 Featured Projects  
+## ✨ Achievements & Goals  
 
-- 🔗 **Project 1:** [Awesome MERN App](#) – A fullstack application built using MongoDB, Express.js, React.js, and Node.js.  
-- 🔗 **Project 2:** [Portfolio Website](#) – Personal portfolio showcasing my work and skills.  
-- 🔗 **Project 3:** [DSA Solutions](#) – Collection of Data Structures & Algorithms solutions in C++/JavaScript.  
+- 🏆 Maintained **LeetCode streak** and solved 600+ DSA problems  
+- 💡 Built multiple projects using **MERN Stack** & **TypeScript**  
+- 🎯 Goal: Master **System Design** and contribute to **Open Source**  
+- 🚀 Preparing for upcoming **Software Engineering internships**  
 
 ---
 
