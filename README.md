@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhishek12911abes&show_icons=true&theme=tokyonight" alt="github stats" height="170"/>
@@ -47,10 +47,16 @@
 
 ---
 
-## 👁 Profile Views  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek12911abes&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
+## 🚀 Featured Projects  
+
+- 🔗 **Project 1:** [Awesome MERN App](#) – A fullstack application built using MongoDB, Express.js, React.js, and Node.js.  
+- 🔗 **Project 2:** [Portfolio Website](#) – Personal portfolio showcasing my work and skills.  
+- 🔗 **Project 3:** [DSA Solutions](#) – Collection of Data Structures & Algorithms solutions in C++/JavaScript.  
 
 ---
 
-## 🐍 Contribution Graph  
-![snake gif](https://github.com/Abhishek12911abes/Abhishek12911abes/blob/output/github-contribution-grid-snake.svg)
+## 📚 Currently Exploring  
+
+- Advanced **TypeScript patterns**  
+- **System Design** fundamentals  
+- Competitive programming on **LeetCode**  
